@@ -1,0 +1,10 @@
+test\morgan\modal\Trade.class
+test\morgan\service\StockServiceImpl$1.class
+test\morgon\stock\StockDataHelper.class
+test\morgan\modal\Stock.class
+test\morgon\stock\StockApplication.class
+test\morgan\modal\constants\StockType.class
+test\morgan\exception\StockExceptions.class
+test\morgan\modal\constants\TradeType.class
+test\morgan\service\StockService.class
+test\morgan\service\StockServiceImpl.class
